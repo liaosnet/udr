@@ -1,2 +1,2 @@
-# jdbc
-JDBC Driver for GBase 8s Database Server
+# udr
+User define routine for GBase 8s Database Server
